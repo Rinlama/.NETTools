@@ -8,11 +8,14 @@ namespace DotNetTools
         static void Main(string[] args)
         {
 
-            //createXML();
-            createXMLWithNameSpace();
+            MyXMLParse.BookXDocumentParse();
+
             Console.ReadLine();
 
         }
+
+
+
 
         static void createXMLWithNameSpace() {
 

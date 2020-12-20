@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <aw:Root xmlns:aw="http://www.adventure-works.com" xmlns:fc="www.fourthcoffee.com">
   <fc:Child>
-    <aw:DifferentChild>other content</aw:DifferentChild>
+    <aw:DifferentChild mycontent="test">other content</aw:DifferentChild>
   </fc:Child>
   <aw:Child2>c2 content</aw:Child2>
   <fc:Child3>c3 content</fc:Child3>
+  <Child4>c4 content</Child4>
 </aw:Root>
